@@ -72,6 +72,11 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void rthom27_eliph2_skitt2(){
+  printf("Carmen, Ted, Subhi\n");
+  printf("We learned that making branches are really useful for larger projects, and that Git is the most widely used source control platform\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +88,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  rthom27_eliph2_skitt2();
 
   return 0;
 }
